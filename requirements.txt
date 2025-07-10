@@ -1,0 +1,7 @@
+Flask>=2.3
+Flask_SQLAlchemy>=3.1
+pulp>=2.7
+folium>=0.15
+requests>=2.31
+geopy>=2.3
+certifi>=2024
