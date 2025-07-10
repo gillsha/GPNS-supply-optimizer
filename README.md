@@ -18,11 +18,17 @@
 
 # Структура проекта
 ├── app.py # Flask-приложение
+
 ├── models.py # Модели SQLAlchemy
+
 ├── config.py # Настройки приложения
+
 ├── templates/ # HTML-шаблоны (main, header, footer)
+
 ├── static/ # Стили (logist.css)
+
 ├── requirements.txt # Зависимости
+
 └── README.md # Описание проекта
 
 
